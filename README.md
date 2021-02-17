@@ -1,5 +1,5 @@
 # Description
-URL Decoder is a simple tool for decoding URLs. Get started by typing or pasting a URL encoded string in the input CLI, the tool will automatically decode your input string in real time.  
+URL Decoder is the simple tool for decoding URLs. Get started by typing or pasting a URL encoded string in the input CLI, the tool will decode your input string in real time.  
 # Usage
 $ git clone https://github.com/mer1-97/urldecoder.git
 
